@@ -1,7 +1,7 @@
 <?php
 echo "Write a PHP script to display a simple message using echo/print and demonstrate variables and data types using the var_dump() function.<br>";
-echo "Name : Disha Panchal <br>";
-echo "Enrollment Number : 24082291082 <br>";
+echo "Name : vishnu chauhan <br>";
+echo "Enrollment Number : 24082291053 <br>";
 echo "------------------------------------------<br><br>";
 
 echo "Hello!<br>";
@@ -19,5 +19,6 @@ echo "<br>";
 
 var_dump($age);
 echo "<br>";
+
 
 ?>
