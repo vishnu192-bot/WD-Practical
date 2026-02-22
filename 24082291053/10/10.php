@@ -1,7 +1,7 @@
 <?php
 echo "Write a PHP script to create associative arrays and apply sorting functions such as asort()and ksort().<br>";
-echo "Name : Disha Panchal <br>";
-echo "Enrollment Number : 24082291082 <br>";
+echo "Name : vishnu chauhan <br>";
+echo "Enrollment Number : 24082291053 <br>";
 echo "------------------------------------------<br><br>";
 
 $students = array(
@@ -21,4 +21,5 @@ echo "<br>Sorted by Key:<br>";
 foreach($students as $name => $marks) {
     echo "$name => $marks <br>";
 }
+
 ?>
